@@ -58,19 +58,19 @@ export const EXPERIENCES = [
 export const SKILL_CATEGORIES = [
   {
     label: "Languages",
-    items: ["Java", "TypeScript", "JavaScript", "SQL", "Python", "C"],
+    items: ["Java", "Python", "C/C++", "R", "JavaScript/TypeScript", "HTML/CSS", "SQL"],
   },
   {
-    label: "Frontend",
-    items: ["React", "HTML", "CSS", "Tailwind CSS"],
+    label: "Frameworks",
+    items: ["React.js", "Node.js", "Flask", "JUnit", "Tailwind", "Spring Boot", "OracleDB"],
   },
   {
-    label: "Backend & Data",
-    items: ["Spring Boot", "REST APIs", "PostgreSQL", "Oracle DB"],
+    label: "Tools",
+    items: ["Git", "Jenkins", "Docker", "Cassandra", "MongoDB", "TeamCity"],
   },
   {
-    label: "Tools & Infra",
-    items: ["Git", "Jenkins", "TeamCity", "JUnit", "Linux", "Docker"],
+    label: "Libraries",
+    items: ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "OpenAI"],
   },
 ];
 
